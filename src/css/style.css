@@ -1,62 +1,10 @@
 .body {
   margin: 0;
   padding: 0;
+  background-color: turquoise;
 }
 
-.contenedor {
-  background-color: black;
+.table {
   margin-left: 10%;
   margin-right: 10%;
-  margin-top: 100px;
-}
-.no-metales {
-  width: 150px;
-  height: 150px;  
-  background-color: green;
-  padding: 20px;
-}
-
-.metales-alcalinos {
-  background-color: purple;
-  padding: 20px;
-}
-
-.alcalinotérreos {
-  background-color: plum;
-  padding: 20px;
-}
-
-.metales-de-transición {
-  background-color: orangered;
-  padding: 20px;
-}
-
-.otros-metales {
-  background-color: yellow;
-  padding: 20px;
-}
-
-.metaloides {
-  background-color: greenyellow;
-  padding: 20px;
-}
-
-.halógenos {
-  background-color: blue;
-  padding: 20px;
-}
-
-.gases-nobles {
-  background-color: lightskyblue;
-  padding: 20px;
-}
-
-.lantánidos {
-  background-color:lightsalmon;
-  padding: 20px;
-}
-
-.actínidos {
-  background-color: red;
-  padding: 20px;
 }
