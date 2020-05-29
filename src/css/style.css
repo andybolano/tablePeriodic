@@ -1,10 +1,102 @@
 .body {
   margin: 0;
-  padding: 0;
-  background-color: black;
+  padding: 0; 
 }
 
-.table {
-  margin-left: 10%;
-  margin-right: 10%;
+.Table {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 30px;
+  font-size: 9px;
+}
+
+
+.Table-II {
+  margin-left: 24%;
+  margin-right: 24%;
+  margin-top: 25px;
+  font-size: 9px;
+}
+
+.Simbolo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Gases-Nobles {
+  background-color: #1FAAE3;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.Halógenos {
+  background-color: #1FAAE3;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.Halógenos2 {
+  background-color: #1FAAE3;
+  text-align: center;
+  border-radius: 5px;
+  padding-right: 6px;
+  padding-left: 6px;
+}
+
+.No-Metales {
+  background-color: #5BB143;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.Metaloides {
+  background-color: #92C025;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.Otros-Metales {
+  background-color: #F3E736;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.Metales-de-Transición {
+  background-color: #F8B03A;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.Alcalinotérreos {
+  background-color: #B23A8D;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.Metales-Alcalinos {
+  background-color: #B23A8D;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.Lantánidos {
+  background-color: #EF7D26;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.Actínidos {
+  background-color: #EB5B26;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
 }
